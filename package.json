@@ -1,0 +1,29 @@
+{
+  "name": "toasty-vk",
+  "version": "1.0.0",
+  "description": "Toasty#0001 tarafından hazırlanan Vampir Köylü botu.",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "jsdoc": "^3.6.6",
+    "moment-timezone": "^0.5.33",
+    "mongoose": "^5.12.7",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kedi/vk.git"
+  },
+  "author": "Toasty",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/kedi/vk/issues"
+  },
+  "homepage": "https://github.com/kedi/vk#readme"
+}
